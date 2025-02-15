@@ -7,7 +7,7 @@ This script automates the process of creating a Capcut account, Auto use email f
 - Automated account creation on Canva.
 - Auto use email from Generator.email
 - Custom password on .env
-- Saves account details to `account.txt`.
+- Saves account details to `accounts.txt`.
 - Uses Puppeteer
 
 ## 🛠️ Requirements
@@ -18,10 +18,10 @@ This script automates the process of creating a Capcut account, Auto use email f
 ## 🔧 Usage
 1. Run the script:
    ```sh
-   node canva.js
+   node capcut.js
    ```
 2. Input 1 for creating 1 account, 2 for Creating bulk account with your input, 3 its setting password for .env
-3. The email and password is automatically saved in `account.txt`.
+3. The email and password is automatically saved in `accounts.txt`.
 
 ## 📝 Notes
 - Ensure your internet connection is stable.
