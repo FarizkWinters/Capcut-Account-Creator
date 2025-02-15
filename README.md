@@ -1,4 +1,4 @@
-# Canva Account Automation Script
+# Capcut Account Automation Script
 
 ## 📌 Description
 This script automates the process of creating a Capcut account, Auto use email from generator.email, auto input otp
