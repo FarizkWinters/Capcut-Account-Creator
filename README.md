@@ -4,7 +4,7 @@
 This script automates the process of creating a Capcut account, Auto use email from generator.email, auto input otp
 
 ## 🚀 Features
-- Automated account creation on Canva.
+- Automated account creation on Capcut.
 - Auto use email from Generator.email
 - Custom password on .env
 - Saves account details to `accounts.txt`.
